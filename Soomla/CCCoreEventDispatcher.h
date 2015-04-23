@@ -17,7 +17,8 @@
 #ifndef __CCCoreEventDispatcher_H_
 #define __CCCoreEventDispatcher_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCDictionary.h"
+#include "deprecated/CCString.h"
 #include "CCReward.h"
 
 namespace soomla {

@@ -17,7 +17,8 @@
 #ifndef __CCDomain_H_
 #define __CCDomain_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCArray.h"
+#include "deprecated/CCDictionary.h"
 
 namespace soomla {
     class CCDomain: public cocos2d::Ref {

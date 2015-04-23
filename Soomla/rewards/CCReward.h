@@ -17,7 +17,8 @@
 #ifndef __CCReward_H_
 #define __CCReward_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCDictionary.h"
+#include "deprecated/CCString.h"
 #include "CCSoomlaMacros.h"
 #include "CCDomain.h"
 #include "CCCoreConsts.h"

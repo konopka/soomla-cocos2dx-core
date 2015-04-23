@@ -17,7 +17,7 @@
 #ifndef __CCCoreBridge_H_
 #define __CCCoreBridge_H_
 
-#include "cocos2d.h"
+#include "base/CCRef.h"
 #include "CCError.h"
 #include "CCReward.h"
 #include "CCSequenceReward.h"

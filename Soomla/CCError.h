@@ -17,7 +17,8 @@
 #ifndef __CCError_H_
 #define __CCError_H_
 
-#include "cocos2d.h"
+#include <string>
+#include "base/CCRef.h"
 
 namespace soomla {
 

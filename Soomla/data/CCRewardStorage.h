@@ -17,7 +17,7 @@
 #ifndef __CCRewardStorage_H_
 #define __CCRewardStorage_H_
 
-#include "cocos2d.h"
+#include "base/CCRef.h"
 #include "CCReward.h"
 #include "CCSequenceReward.h"
 

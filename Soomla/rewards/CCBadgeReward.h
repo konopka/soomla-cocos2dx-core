@@ -17,7 +17,8 @@
 #ifndef __CCBadgeReward_H_
 #define __CCBadgeReward_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCDictionary.h"
+#include "deprecated/CCString.h"
 #include "CCSoomlaMacros.h"
 #include "CCReward.h"
 

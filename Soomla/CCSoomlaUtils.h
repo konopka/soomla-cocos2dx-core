@@ -21,6 +21,7 @@
 
 
 #include "CCError.h"
+#include "deprecated/CCString.h"
 
 #ifndef SOOMLA_DEBUG
 #define SOOMLA_DEBUG false

@@ -15,6 +15,12 @@
  */
 
 #include "CCJsonHelper.h"
+#include "deprecated/CCDictionary.h"
+#include "deprecated/CCBool.h"
+#include "deprecated/CCInteger.h"
+#include "deprecated/CCDouble.h"
+#include "deprecated/CCFloat.h"
+#include "deprecated/CCArray.h"
 
 USING_NS_CC;
 using namespace std;

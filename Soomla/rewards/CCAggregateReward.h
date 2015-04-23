@@ -17,7 +17,9 @@
 #ifndef __CCAggregateReward_H_
 #define __CCAggregateReward_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCArray.h"
+#include "deprecated/CCDictionary.h"
+#include "deprecated/CCString.h"
 #include "CCSoomlaMacros.h"
 #include "CCCoreConsts.h"
 #include "CCReward.h"

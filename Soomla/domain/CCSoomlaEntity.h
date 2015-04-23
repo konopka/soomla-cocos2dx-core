@@ -17,7 +17,8 @@
 #ifndef __CCSoomlaEntity_H_
 #define __CCSoomlaEntity_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCDictionary.h"
+#include "deprecated/CCString.h"
 #include "CCDomain.h"
 #include "CCCoreConsts.h"
 #include "CCSoomlaMacros.h"

@@ -17,7 +17,8 @@
 #ifndef __CCRandomReward_H_
 #define __CCRandomReward_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCArray.h"
+#include "deprecated/CCString.h"
 #include "CCSoomlaMacros.h"
 #include "CCAggregateReward.h"
 

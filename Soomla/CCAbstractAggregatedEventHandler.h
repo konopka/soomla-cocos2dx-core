@@ -18,7 +18,7 @@
 #define __CCAbstractAggregatedEventHandler_H_
 
 
-#include "cocos2d.h"
+#include "deprecated/CCSet.h"
 
 namespace soomla {
 

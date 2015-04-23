@@ -15,6 +15,7 @@
  */
 
 #include "base/CCUserDefault.h"
+#include "deprecated/CCString.h"
 
 #include "CCBridgelessKeyValueStorage.h"
 

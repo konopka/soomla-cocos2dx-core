@@ -18,7 +18,7 @@
 #define __CCJsonHelper_H_
 
 #include <iostream>
-#include "cocos2d.h"
+#include "base/CCRef.h"
 #include "jansson.h"
 
 /** \class CCJsonHelper

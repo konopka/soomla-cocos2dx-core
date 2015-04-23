@@ -16,6 +16,8 @@
 
 #include "CCError.h"
 #include "CCSoomlaUtils.h"
+#include "deprecated/CCString.h"
+#include "deprecated/CCDictionary.h"
 
 USING_NS_CC;
 

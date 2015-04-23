@@ -17,7 +17,7 @@
 #ifndef __CCDomainFactory_H_
 #define __CCDomainFactory_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCDictionary.h"
 #include "CCDomain.h"
 
 namespace soomla {

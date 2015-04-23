@@ -18,7 +18,7 @@
 #define __CCBridgelessKeyValueStorage_H
 
 #include "CCKeyValueStorage.h"
-
+#include "deprecated/CCSet.h"
 
 
 namespace soomla {

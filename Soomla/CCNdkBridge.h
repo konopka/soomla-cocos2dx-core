@@ -17,7 +17,7 @@
 #ifndef __CCNdkBridge_H_
 #define __CCNdkBridge_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCDictionary.h"
 #include "CCError.h"
 
 namespace soomla {

@@ -17,7 +17,8 @@
 
 
 #include "CCSoomlaUtils.h"
-#include "cocos2d.h"
+#include "base/CCConsole.h"
+#include "deprecated/CCString.h"
 
 namespace soomla {
     void CCSoomlaUtils::logDebug(const char *tag, const char *message) {

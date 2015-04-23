@@ -18,7 +18,7 @@
 #ifndef __CCDomainHelper_H_
 #define __CCDomainHelper_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCArray.h"
 #include "CCDomain.h"
 
 namespace soomla {
